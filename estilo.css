@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+   
+}
+
+
+
+.container{
+    width: 375px;
+    height:900px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+}
+
+.r1 {
+    width: 320px;
+    height: 90px;
+    background-color:hsl(300, 24%, 96%);
+    border-radius: 5px 5px 5px 5px;
+    margin: 10px;
+    padding: 20px;
+    color:hsl(300, 43%, 22%); 
+    font-size: 15px;
+    font-family:'Spartan', sans-serif;
+}
+
+.r2 {
+    width: 320px;
+    height: 90px;
+    background-color:hsl(300, 24%, 96%);
+    border-radius: 5px 5px 5px 5px;
+    margin: 10px;
+    padding: 20px;
+    color:hsl(300, 43%, 22%); 
+    font-size: 15px;
+    font-family:'Spartan', sans-serif;
+}
+
+.r3 {
+    width: 320px;
+    height: 90px;
+    background-color:hsl(300, 24%, 96%);
+    border-radius: 5px 5px 5px 5px;
+    margin: 10px;
+    padding: 20px;
+    color:hsl(300, 43%, 22%); 
+    font-size: 15px;
+    font-family:'Spartan', sans-serif;
+}
+
+.colton, p {
+    width: 320px;
+    height: 250px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: hsl(300, 43%, 22%);
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    font-family:'Spartan', sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+.irene {
+    width: 320px;
+    height: 250px;
+    border-radius: 5px 5px 5px 5px;
+    background-color:hsl(300, 43%, 22%);
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    font-family:'Spartan', sans-serif;
+}
+
+.anne {
+    width: 320px;
+    height: 250px;
+    border-radius: 5px 5px 5px 5px;
+    background-color:hsl(300, 43%, 22%);
+    color: white;
+    margin: 10px;
+    padding: 20px; 
+    font-size: 15px;
+    font-family:'Spartan', sans-serif;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h1 { 
+    color:hsl(300, 43%, 22%);
+}
+
+p {
+    font-size: 15px;
+    font-family:'Spartan', sans-serif;
+}
