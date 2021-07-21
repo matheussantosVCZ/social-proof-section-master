@@ -7,11 +7,14 @@
 
 
 .container{
+    display: flex;
+    flex-direction: column;
     width: 375px;
     height:900px;
     justify-content: center;
     align-items: center;
-    text-align: center;  
+    text-align: center; 
+    background-color: aqua; 
 }
 
 .r1 {
@@ -50,7 +53,7 @@
     font-family:'Spartan', sans-serif;
 }
 
-.colton, p {
+.colton{
     width: 320px;
     height: 250px;
     border-radius: 5px 5px 5px 5px;
