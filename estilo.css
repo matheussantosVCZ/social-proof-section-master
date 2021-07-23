@@ -59,8 +59,6 @@
     padding: 20px;
     font-size: 15px;
     font-family:'Spartan', sans-serif;
-    display: flex;
-    align-items: center;
 }
 
 .irene {
@@ -87,7 +85,9 @@
     font-family:'Spartan', sans-serif;
 }
 
-img {
+
+img{
+    display: flex;
     border-radius: 50%;
 }
 
@@ -105,7 +105,7 @@ p {
     padding: 10px; 
 }
 
-.imgone{
-    display: flex;
-    justify-content:center;
+.imgone {
+   display: flex;
+   margin: 15px; 
 }
