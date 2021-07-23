@@ -109,3 +109,12 @@ p {
    display: flex;
    margin: 15px; 
 }
+
+/* Desktop*/
+
+@media (min-width: 375px){
+    .container{
+        display: flex;
+        justify-content: right;
+    }
+}
