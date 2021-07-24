@@ -172,26 +172,11 @@ p {
 }
 
 @media (min-width:376px) {
-    .r1 {
+    .stars {
         display: flex;
-        flex-direction:row;
+        flex-direction:column;
         align-self:flex-end;
-    }
-}
-
-@media (min-width:376px) {
-    .r2 {
-        display: flex;
-        flex-direction:row;
-        align-self:flex-end;
-    }
-}
-
-@media (min-width:376px) {
-    .r3 {
-        display: flex;
-        flex-direction:row;
-        align-self:flex-end;
+        
     }
 }
 
@@ -218,8 +203,5 @@ p {
     .car1 {
         display: flex;
         flex-direction: row;
-       
-        background-color: lawngreen;
-        
     }
 }
