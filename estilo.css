@@ -49,6 +49,12 @@
     font-family:'Spartan', sans-serif;
 }
 
+.estrelas {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
 .colton{
     width: 320px;
     height: 250px;
@@ -88,7 +94,7 @@
 
 img{
     display: flex;
-    border-radius: 50%;
+    border-radius: 50%;     
 }
 
 h1 {
