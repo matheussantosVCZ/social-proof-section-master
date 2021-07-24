@@ -40,7 +40,7 @@
     width: 375px;
     height: 90px;
     background-color:  hsl(300, 24%, 96%);
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 10px 10px 10px 10px;
     margin: 10px;
     padding: 20px;
     color:hsl(300, 43%, 22%); 
@@ -114,6 +114,9 @@ p {
    display: flex;
    margin: 15px; 
 }
+
+
+/*colocar as estrelas no tamanho menor dentro do media query , inserir o width e heigth para ficar alkinhado com o desafio*/
 
 /* Desktop*/
 
