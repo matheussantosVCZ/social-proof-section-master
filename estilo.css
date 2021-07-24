@@ -135,7 +135,7 @@ p {
 @media (min-width: 376px) {
     .r2 {
         display: flex;
-        flex-direction: row;
+        align-self: center;
         width: 400px;
         align-items: center;
     }
@@ -145,7 +145,7 @@ p {
 @media (min-width: 376px) {
     .r3 {
         display: flex;
-        flex-direction: row;
+        align-self: flex-end;
         width: 400px;
         align-items: center;
     }
@@ -167,16 +167,17 @@ p {
         width: 400px;
         height: 250px;
         background-color: azure;
-        
     }
 }
 
 @media (min-width:376px) {
     .stars {
+        width: 650px;
+
         display: flex;
         flex-direction:column;
         align-self:flex-end;
-        
+        background-color: lawngreen;
     }
 }
 
