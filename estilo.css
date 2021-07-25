@@ -162,27 +162,22 @@ p {
 
 @media (min-width:376px) {
     .info {
-        display:flex;
-        justify-content:center;
-        flex-direction:column;
         align-self: flex-start;
-        align-items: center;
         width: 400px;
-        height: 250px;
-        background-color: azure;
+        height: 300px;
     }
 }
 
 @media (min-width:376px) {
     .stars {
         width: 650px;
-        display: flex;
+        display:flex;
         flex-direction:column;
         align-self:flex-end;
+        /*colocar ele para cima*/
         background-color: lawngreen;
     }
 }
-
 
 @media (min-width:376px) {
     .colton {
@@ -200,7 +195,7 @@ p {
 @media (min-width:376px) {
     .irene {
         width: 400px;
-        flex-direction: column;
+        flex-direction:column;
         align-self:center;
      
 }
