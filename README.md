@@ -2,9 +2,9 @@
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
-# Frontend Mentor - 3-column preview card component solution
+# Social proof section
 
-Essa é a solução para o desafio [3-column preview card component challenge on Frontend Mentor]https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Os desafios de Frontend Mentor ajudam você a melhorar suas habilidades de programação por construir projetos realistas.
+Essa é a solução para o desafio [Social proof section] https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Os desafios de Frontend Mentor ajudam você a melhorar suas habilidades de programação por construir projetos realistas.
 
 ## Tabela de conteúdos
 
