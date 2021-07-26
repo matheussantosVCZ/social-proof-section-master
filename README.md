@@ -35,7 +35,7 @@ Usuários devem ser capazes de:
 
 ### Links
 
-- URL do site online: [Live on Netlify](https://elastic-swanson-8c86b9.netlify.app/)
+- URL do site online: [Live on Netlify](https://matheussantosvcz.github.io/social-proof-section-master/)
 
 ## Meu processo
 
